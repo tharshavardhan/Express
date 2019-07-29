@@ -1,0 +1,22 @@
+{
+  "name": "dsf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm index",
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2",
+    "nodemon": "^1.19.1"
+  }
+}
